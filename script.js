@@ -642,7 +642,7 @@ document.addEventListener('DOMContentLoaded', () => {
             certificate: './training/smartbridge-genai.png'
         },
         training2: {
-            logo: 'https://www.united.ac.in/summertraining/images/logo.png',
+            logo: 'https://www.united.ac.in/storage/settings/January2026/KL4626ZwMBBU43FZxYbr.png',
             company: 'United Global Info Services Pvt. Ltd.',
             position: 'Generative AI using NLP',
             duration: 'Aug 2024 - Dec 2024',
